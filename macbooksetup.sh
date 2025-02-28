@@ -19,6 +19,8 @@ brew install git
 brew install --cask visual-studio-code
 brew install --cask docker
 brew install --cask sourcetree
+brew install --cask postman
+brew install --cask python
 
 # Install Node.js and npm
 echo "Installing Node.js and npm..."
