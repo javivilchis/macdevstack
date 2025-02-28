@@ -30,7 +30,7 @@ The script installs the following tools:
 
 ### 1. Download the Script
 
-Clone the repository or download the `setup-dev.sh` script:
+Clone the repository or download the `macbooksetup.sh` script:
 
 ```sh
 curl -O https://github.com/javivilchis/macdevstack/macbooksetup.sh
@@ -41,7 +41,7 @@ curl -O https://github.com/javivilchis/macdevstack/macbooksetup.sh
 Give execution permission and run the script:
 
 ```sh
-chmod +x setup-dev.sh
+chmod +x macbooksetup.sh
 ./macbooksetup.sh
 ```
 
@@ -70,7 +70,7 @@ react-native --version # Check React Native version
 If you encounter permission issues, try running the script with:
 
 ```sh
-sudo ./setup-dev.sh
+sudo ./macbooksetup.sh
 ```
 
 ## License
