@@ -10,4 +10,4 @@ The first reports of the malware alerts surfaced on January 7, 2025, when macOS 
 
 ## Fixes:
 **Docker installation** - To fix the issue where the prompt of bogus malware appears, follow the content of this website (Cert Revoke Solution)[https://docs.docker.com/desktop/cert-revoke-solution/]. Other website to help
-fix the issue (www.bleepingcomputer.com)[https://www.bleepingcomputer.com/news/security/docker-desktop-blocked-on-macs-due-to-false-malware-alert/]
+fix the issue [bleeping computer](https://www.bleepingcomputer.com/news/security/docker-desktop-blocked-on-macs-due-to-false-malware-alert/)
